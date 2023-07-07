@@ -90,6 +90,11 @@ body {
     transform: translateY(-50%);
 }
 
+.w-100 {
+    width: 100% !important;
+    height: 20rem !important;
+}
+
 /* collection */
 .active-filter-btn {
     background-color: var(--pink) !important;
